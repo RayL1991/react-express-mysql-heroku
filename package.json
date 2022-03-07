@@ -38,10 +38,11 @@
     "webpack-dev-server": "^4.7.4"
   },
   "engines": {
-    "node":"16.13.2"
+    "node": "16.13.2"
   },
   "dependencies": {
     "axios": "^0.26.0",
+    "cross-env": "^7.0.3",
     "history": "^5.3.0",
     "md5": "^2.3.0",
     "mysql": "^2.18.1",
