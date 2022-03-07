@@ -25,7 +25,7 @@ export async function connectDB() {
   //   password: "password",
   //   database: "myorganizer",
   // });
-  const db = mysql.createConnection({
+  const db = mysql.createPool({
     user: "b6489a090ddf28",
     host: "us-cdbr-east-05.cleardb.net",
     password: "c04a916b",
