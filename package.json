@@ -26,7 +26,6 @@
     
     "concurrently": "^7.0.0",
     
-
     "mongodb": "^4.4.0",
     "react-router": "^6.2.1",
     
